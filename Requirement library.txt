@@ -1,0 +1,10 @@
+streamlit
+pandas
+pickle
+numpy
+string
+re
+nltk
+TweetTokenizer
+PorterStemmer
+stopwords
