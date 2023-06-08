@@ -5,6 +5,5 @@ numpy
 string
 re
 nltk
-TweetTokenizer
 PorterStemmer
 stopwords
